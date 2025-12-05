@@ -1,0 +1,16 @@
+Collecting pandas
+  Downloading pandas-2.3.3-cp313-cp313-macosx_11_0_arm64.whl.metadata (91 kB)
+Requirement already satisfied: numpy>=1.26.0 in /Users/xidoski/venvs/cfclient/lib/python3.13/site-packages (from pandas) (2.2.6)
+Requirement already satisfied: python-dateutil>=2.8.2 in /Users/xidoski/venvs/cfclient/lib/python3.13/site-packages (from pandas) (2.9.0.post0)
+Collecting pytz>=2020.1 (from pandas)
+  Downloading pytz-2025.2-py2.py3-none-any.whl.metadata (22 kB)
+Collecting tzdata>=2022.7 (from pandas)
+  Downloading tzdata-2025.2-py2.py3-none-any.whl.metadata (1.4 kB)
+Requirement already satisfied: six>=1.5 in /Users/xidoski/venvs/cfclient/lib/python3.13/site-packages (from python-dateutil>=2.8.2->pandas) (1.17.0)
+Downloading pandas-2.3.3-cp313-cp313-macosx_11_0_arm64.whl (10.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.7/10.7 MB 4.4 MB/s  0:00:02
+Downloading pytz-2025.2-py2.py3-none-any.whl (509 kB)
+Downloading tzdata-2025.2-py2.py3-none-any.whl (347 kB)
+Installing collected packages: pytz, tzdata, pandas
+
+Successfully installed pandas-2.3.3 pytz-2025.2 tzdata-2025.2

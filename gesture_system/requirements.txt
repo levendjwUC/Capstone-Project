@@ -1,0 +1,9 @@
+# Camera Module
+opencv-python
+numpy
+
+# Gesture Classifier
+mediapipe
+tensorflow
+scikit-image
+scipy

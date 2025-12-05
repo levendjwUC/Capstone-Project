@@ -1,0 +1,7 @@
+Requirement already satisfied: cflib in /Users/xidoski/venvs/cfclient/lib/python3.13/site-packages (0.1.29)
+Requirement already satisfied: pyusb~=1.2 in /Users/xidoski/venvs/cfclient/lib/python3.13/site-packages (from cflib) (1.3.1)
+Requirement already satisfied: libusb-package~=1.0 in /Users/xidoski/venvs/cfclient/lib/python3.13/site-packages (from cflib) (1.0.26.3)
+Requirement already satisfied: scipy~=1.14 in /Users/xidoski/venvs/cfclient/lib/python3.13/site-packages (from cflib) (1.16.3)
+Requirement already satisfied: numpy~=2.2 in /Users/xidoski/venvs/cfclient/lib/python3.13/site-packages (from cflib) (2.2.6)
+Requirement already satisfied: packaging~=25.0 in /Users/xidoski/venvs/cfclient/lib/python3.13/site-packages (from cflib) (25.0)
+Requirement already satisfied: importlib_resources in /Users/xidoski/venvs/cfclient/lib/python3.13/site-packages (from libusb-package~=1.0->cflib) (6.5.2)
